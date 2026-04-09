@@ -11,7 +11,7 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 - Data de criação: 01/04/2026
 - URL: https://cinemasaojorge.pt/
-- Propriedade: Lisboa Cultura
+- Propriedade: Cinema São Jorge - EGEAC
 - Candidatura: Ouro
 
 ## Relatório de Auditoria
