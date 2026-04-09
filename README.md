@@ -3,7 +3,7 @@ website: "Cinema São Jorge"          # Entre as aspas escreve o nome do website
 date: "01/04/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://cinemasaojorge.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://cinemasaojorge.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "Lisboa Cultura"         # Entre as aspas escrever o nome do owner do website
+owner: "Cinema São Jorge - EGEAC"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
